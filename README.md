@@ -1,4 +1,4 @@
-### Olá! Eu sou o Thiago, Desenvolvedor de Software.
+### Hi! I'm Thiago, Software Developer.
 
 <div align="center">
   <a href="https://github.com/thiagosougo">
